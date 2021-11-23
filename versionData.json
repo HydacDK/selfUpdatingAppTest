@@ -1,9 +1,9 @@
 {
-  "version": "0.3.3",
+  "version": "0.4.0",
   "selfUpdater_Test.exe": {
-    "hash": "15cf180f3dc53d3e48921442adbfa9b9"
+    "hash": "69df5f946d608d17bc852d0056dbd6d9"
   },
   "updateHelper.exe": {
-    "hash": "aed102efe39630344c1fd85497f668da"
+    "hash": "bbc62d1c1707efac70eed8277bdadc13"
   }
 }
